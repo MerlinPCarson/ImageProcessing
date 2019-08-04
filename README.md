@@ -1,5 +1,5 @@
 # ImageProcessing
-Implementing Image Processing techniques.
+Implementing Image Processing techniques in C++.
 
 # Implemented Algorithms (located in TargaImage.cpp)
 - Uniform Quantization
