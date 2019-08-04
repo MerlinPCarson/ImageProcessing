@@ -6,24 +6,24 @@
 //                                              Modified:   Feng Liu
 //                                              Date:       Winter 2011
 //                                              Why:        Change the library file 
-//												Modified:	Merlin Carson
-//												Date:		Fall 2018
-//												Why:		Programmed algorithms-
-//															Uniform Quantization,
-//															Populosity
-//															Naive Threshold Dithering
-//															Brightness Preserving Threshold
-//															Random Dithering
-//															Clustered Dithering
-//															Floyd-Steinberg Dithering
-//															Box Filter
-//															Bartlett Filter
-//															Gaussian Filter
-//															Compositing Over
-//															Compositing Inside
-//															Compositing Outside
-//															Compositing Atop
-//															Compositing Xor
+//						Modified:   Merlin Carson
+//						Date:	    Fall 2018
+//						Why:	    Programmed algorithms-
+//								Uniform Quantization,
+//								Populosity
+//								Naive Threshold Dithering
+//								Brightness Preserving Threshold
+//								Random Dithering
+//								Clustered Dithering
+//								Floyd-Steinberg Dithering
+//								Box Filter
+//								Bartlett Filter
+//								Gaussian Filter
+//								Compositing Over
+//								Compositing Inside
+//								Compositing Outside
+//								Compositing Atop
+//								Compositing Xor
 //															
 //      Implementation of TargaImage methods.  You must implement the image
 //  modification functions.
