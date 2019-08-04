@@ -1,8 +1,8 @@
 # ImageProcessing
-Implementing Image Processing techniques. Base project developed by Dr. Stephen Chenney for his Computer Graphics course that he taught at UW-Madison.
+Implementing Image Processing techniques.
 
 # Implemented Algorithms (located in TargaImage.cpp)
-- Uniform Quantization,
+- Uniform Quantization
 - Populosity
 - Naive Threshold Dithering
 - Brightness Preserving Threshold
@@ -21,3 +21,4 @@ Implementing Image Processing techniques. Base project developed by Dr. Stephen 
 # Tutorial on setting up FLTK library for C++ in Visual Studio
 http://web.cecs.pdx.edu/~fliu/courses/cs447/programming.html
 
+*Acknowledgement: This project was designed by Dr. Stephen Chenney for his Computer Graphics course that he taught at UW-Madison.
